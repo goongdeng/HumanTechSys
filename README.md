@@ -1,3 +1,3 @@
 # HumanTechSys
 
-인간을 이롭게 하는 기술을 만드는 회사
+A company that makes technology for humans, 인간을 위한 기술을 만드는 회사
